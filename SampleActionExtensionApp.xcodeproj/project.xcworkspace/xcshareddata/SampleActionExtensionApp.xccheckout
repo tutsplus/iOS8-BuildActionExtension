@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A72D91D3-B8AB-4698-8F93-D0E97F35842B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SampleActionExtensionApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E6A88727628520B50346AA7902D13ADA2469E5C7</key>
+		<string>https://github.com/tutsplus/iOS8-BuildActionExtension.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SampleActionExtensionApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E6A88727628520B50346AA7902D13ADA2469E5C7</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tutsplus/iOS8-BuildActionExtension.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E6A88727628520B50346AA7902D13ADA2469E5C7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E6A88727628520B50346AA7902D13ADA2469E5C7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS8-BuildActionExtension</string>
+		</dict>
+	</array>
+</dict>
+</plist>

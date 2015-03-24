@@ -17,8 +17,8 @@
 		16F967121A28F06F003371C5 /* ActionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 16F967111A28F06F003371C5 /* ActionViewController.m */; };
 		16F967141A28F06F003371C5 /* MainInterface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 16F967131A28F06F003371C5 /* MainInterface.storyboard */; };
 		16F967171A28F06F003371C5 /* ReadItAction.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 16F9670C1A28F06F003371C5 /* ReadItAction.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		16F9671E1A291B3C003371C5 /* ActionSoundIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 16F9671D1A291B3C003371C5 /* ActionSoundIcon.png */; };
 		16F967201A291BF5003371C5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 16F966EF1A28EEE2003371C5 /* Images.xcassets */; };
+		BA44C2EB1AC15D5200609B66 /* ActionSoundIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = BA44C2EA1AC15D5200609B66 /* ActionSoundIcon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -71,7 +71,7 @@
 		16F967101A28F06F003371C5 /* ActionViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ActionViewController.h; sourceTree = "<group>"; };
 		16F967111A28F06F003371C5 /* ActionViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ActionViewController.m; sourceTree = "<group>"; };
 		16F967131A28F06F003371C5 /* MainInterface.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = MainInterface.storyboard; sourceTree = "<group>"; };
-		16F9671D1A291B3C003371C5 /* ActionSoundIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ActionSoundIcon.png; path = ../ActionSoundIcon.png; sourceTree = "<group>"; };
+		BA44C2EA1AC15D5200609B66 /* ActionSoundIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ActionSoundIcon.png; path = SampleActionExtensionApp/Images.xcassets/AppIconExtension.appiconset/ActionSoundIcon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -183,7 +183,7 @@
 		16F9671C1A291B2C003371C5 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				16F9671D1A291B3C003371C5 /* ActionSoundIcon.png */,
+				BA44C2EA1AC15D5200609B66 /* ActionSoundIcon.png */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -293,8 +293,8 @@
 			files = (
 				16F966EE1A28EEE2003371C5 /* Main.storyboard in Resources */,
 				16F966F31A28EEE2003371C5 /* LaunchScreen.xib in Resources */,
-				16F9671E1A291B3C003371C5 /* ActionSoundIcon.png in Resources */,
 				16F966F01A28EEE2003371C5 /* Images.xcassets in Resources */,
+				BA44C2EB1AC15D5200609B66 /* ActionSoundIcon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
