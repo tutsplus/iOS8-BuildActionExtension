@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>Read it</string>
+	<string>搜索文字</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIcons</key>
@@ -32,6 +32,10 @@
 		<dict>
 			<key>NSExtensionActivationRule</key>
 			<dict>
+				<key>NSExtensionActivationSupportsImageWithMaxCount</key>
+				<true/>
+				<key>NSExtensionActivationSupportsMovieWithMaxCount</key>
+				<true/>
 				<key>NSExtensionActivationSupportsText</key>
 				<true/>
 			</dict>

@@ -16,7 +16,7 @@
 @implementation ViewController
 
 - (IBAction)actionButtonPressed:(id)sender {
-    UIActivityViewController *activityVC = [[UIActivityViewController alloc] initWithActivityItems:@[self.textView.text]
+    UIActivityViewController *activityVC = [[UIActivityViewController alloc] initWithActivityItems:@[self.textView.text,[UIImage imageNamed:@"ActionSoundIcon"]]
                                                                              applicationActivities:nil];
     [self presentViewController:activityVC animated:YES completion:nil];
 }
